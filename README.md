@@ -1,2 +1,2 @@
 # Q-Solver
-Provides Descriptive solution of  question asked
+This project is based on the working of computer algebra system. this project is being developed for solving basic algebric problems with the computer system  and gradually increasing to higher level....
